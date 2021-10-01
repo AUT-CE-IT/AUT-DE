@@ -1,2 +1,2 @@
-# AUT-DE
+# AUT253-DE
 Differential Equations (DE)
