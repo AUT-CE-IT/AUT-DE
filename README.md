@@ -1,2 +1,2 @@
 # AUT253-DE
-Differential Equations (DE)
+Differential Equations
